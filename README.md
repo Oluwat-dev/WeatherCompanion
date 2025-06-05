@@ -1,8 +1,9 @@
-# WeatherAI - Smart Weather Assistant
+# WeatherCompanion - Smart Weather Assistant
 
 A modern, mobile-responsive weather application with AI-powered personal assistance, voice input capabilities, and real-time weather data.
 
-![WeatherAI Screenshot](https://via.placeholder.com/800x400/2563EB/FFFFFF?text=WeatherAI+Screenshot)
+Snapshot<img width="958" alt="image" src="https://github.com/user-attachments/assets/746558c0-ce45-4fc9-a622-acb86ccd5814" />
+
 
 ## Features
 
@@ -68,8 +69,8 @@ A modern, mobile-responsive weather application with AI-powered personal assista
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weatherai.git
-   cd weatherai
+   git clone https://github.com/Oluwat-dev/WeatherCompanion.git
+   cd WeatherCompanion
    ```
 
 2. **Install dependencies**
@@ -220,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/weatherai/issues) page
+1. Check the [Issues](https://github.com/Oluwat-dev/WeatherCompanion/issues) page
 2. Create a new issue with detailed information
 3. Include browser version and error messages
 
